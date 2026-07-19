@@ -14,7 +14,7 @@ data = {
     'Education': ['Bachelor', 'Master', 'PhD', 'Bachelor', 'Master', 'Master', 'Bachelor', 'PhD'],
     'Purchased': ['No', 'Yes', 'No', 'No', 'Yes', 'Yes', 'No', 'Yes'] # Target Class
 }
-df = pd.read_csv(data)
+df = pd.read_csv(ML-02_Data Processing/food.csv)
 
 # ==========================================
 # LAB1: Dataset Exploration
