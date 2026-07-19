@@ -6,7 +6,7 @@ This project performs a full exploratory data analysis (EDA) and preprocessing p
 
 - **Source:** [🍔 Food Vitamins, Minerals, Macronutrient](https://www.kaggle.com/datasets/mexwell/food-vitamins-minerals-macronutrient/code)
 - **File:** `food.csv`
-- **Target variable:** `Category` / `Rating` (depending on specific model objectives)
+- **Target variable:** `Category` (Categorical — e.g., Milk, Infant formula, Vegetables) Depending on the analysis goal.
 
 ## Project Structure
 
